@@ -5,14 +5,14 @@ import org.apache.log4j.Logger;
 
 import java.util.concurrent.locks.Lock;
 
-public class RunnableTask implements Runnable {
+public class ComplexTask implements Runnable {
 
-    private Logger logger = Logger.getLogger(RunnableTask.class);
+    private Logger logger = Logger.getLogger(ComplexTask.class);
 
     private final Lock firstLock;
     private final Lock secondLock;
 
-    public RunnableTask(final Lock firstLock, final Lock secondLock) {
+    public ComplexTask(final Lock firstLock, final Lock secondLock) {
         this.firstLock = firstLock;
         this.secondLock = secondLock;
     }
