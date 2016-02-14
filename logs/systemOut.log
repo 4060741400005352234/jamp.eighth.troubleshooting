@@ -1,0 +1,368 @@
+2016-02-14 13:33:25,207 [jamp.task.ComplexTask][] INFO - Start.
+2016-02-14 13:33:25,240 [jamp.task.ComplexTask][] INFO - Thread pool-1-thread-1 acquired first lock.
+2016-02-14 13:33:30,241 [jamp.task.ComplexTask][] INFO - Thread pool-1-thread-1 acquired second lock.
+2016-02-14 13:33:30,241 [jamp.task.ComplexTask][] INFO - Thread pool-1-thread-1 released second lock.
+2016-02-14 13:33:30,241 [jamp.task.ComplexTask][] INFO - Thread pool-1-thread-1 released first lock.
+2016-02-14 13:33:30,241 [jamp.task.ComplexTask][] INFO - Thread pool-1-thread-2 acquired first lock.
+2016-02-14 13:33:35,241 [jamp.task.ComplexTask][] INFO - Thread pool-1-thread-2 acquired second lock.
+2016-02-14 13:33:35,241 [jamp.task.ComplexTask][] INFO - Thread pool-1-thread-2 released second lock.
+2016-02-14 13:33:35,241 [jamp.task.ComplexTask][] INFO - Thread pool-1-thread-2 released first lock.
+2016-02-14 13:33:35,241 [jamp.task.ComplexTask][] INFO - Finish.
+2016-02-14 13:34:08,281 [jamp.task.ComplexTask][] INFO - Start.
+2016-02-14 13:34:08,286 [jamp.task.ComplexTask][] INFO - Thread pool-1-thread-1 acquired first lock.
+2016-02-14 13:34:08,286 [jamp.task.ComplexTask][] INFO - Thread pool-1-thread-2 acquired first lock.
+2016-02-14 13:34:33,963 [jamp.task.ComplexTask][] INFO - Start.
+2016-02-14 13:34:33,970 [jamp.task.ComplexTask][] INFO - Thread pool-1-thread-2 acquired first lock.
+2016-02-14 13:34:33,970 [jamp.task.ComplexTask][] INFO - Thread pool-1-thread-1 acquired first lock.
+2016-02-14 13:39:07,374 [jamp.task.ComplexTask][] INFO - Start.
+2016-02-14 13:39:07,379 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-1' acquired first lock.
+2016-02-14 13:39:07,379 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-2' acquired first lock.
+2016-02-14 13:58:17,333 [jamp.main.First][] INFO - Start.
+2016-02-14 13:58:17,338 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-1' acquired first lock.
+2016-02-14 13:58:17,338 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-2' acquired first lock.
+2016-02-14 13:58:39,699 [jamp.main.First][] INFO - Start.
+2016-02-14 13:58:39,704 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-1' acquired first lock.
+2016-02-14 13:58:39,704 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-2' acquired first lock.
+2016-02-14 14:00:22,392 [jamp.main.First][] INFO - Start.
+2016-02-14 14:00:22,399 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-1' acquired first lock.
+2016-02-14 14:00:22,399 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-2' acquired first lock.
+2016-02-14 14:01:44,661 [jamp.main.First][] INFO - Start.
+2016-02-14 14:01:44,665 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-2' acquired first lock.
+2016-02-14 14:01:44,665 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-1' acquired first lock.
+2016-02-14 14:01:58,856 [jamp.main.Second][] INFO - Start.
+2016-02-14 14:01:58,861 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-2' acquired first lock.
+2016-02-14 14:01:58,861 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-1' acquired first lock.
+2016-02-14 14:01:58,861 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-3' start execution.
+2016-02-14 14:01:58,861 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-4' start execution.
+2016-02-14 14:01:58,861 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-5' start execution.
+2016-02-14 14:01:58,861 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-6' start execution.
+2016-02-14 14:01:58,862 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-7' start execution.
+2016-02-14 14:01:58,862 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-8' start execution.
+2016-02-14 14:02:09,929 [jamp.main.Second][] INFO - Start.
+2016-02-14 14:02:09,934 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-2' acquired first lock.
+2016-02-14 14:02:09,934 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-1' acquired first lock.
+2016-02-14 14:02:09,935 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-3' start execution.
+2016-02-14 14:02:09,935 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-4' start execution.
+2016-02-14 14:02:09,935 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-5' start execution.
+2016-02-14 14:02:09,935 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-6' start execution.
+2016-02-14 14:02:09,935 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-7' start execution.
+2016-02-14 14:02:09,935 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-8' start execution.
+2016-02-14 14:09:47,380 [jamp.main.Second][] INFO - Start.
+2016-02-14 14:09:47,389 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-3' start execution.
+2016-02-14 14:09:47,390 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-3' is executing.
+2016-02-14 14:09:47,390 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-3' finish execution.
+2016-02-14 14:09:47,390 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-6' start execution.
+2016-02-14 14:09:47,390 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-6' is executing.
+2016-02-14 14:09:47,390 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-6' finish execution.
+2016-02-14 14:09:47,391 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-2' acquired first lock.
+2016-02-14 14:09:47,391 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-5' start execution.
+2016-02-14 14:09:47,391 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-5' is executing.
+2016-02-14 14:09:47,391 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-5' finish execution.
+2016-02-14 14:09:47,391 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-7' start execution.
+2016-02-14 14:09:47,391 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-4' start execution.
+2016-02-14 14:09:47,391 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-8' start execution.
+2016-02-14 14:09:47,391 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-1' acquired first lock.
+2016-02-14 14:11:34,629 [jamp.main.Second][] INFO - Start.
+2016-02-14 14:11:34,634 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-1' acquired first lock.
+2016-02-14 14:11:34,635 [jamp.task.ComplexTask][] INFO - Thread 'pool-1-thread-2' acquired first lock.
+2016-02-14 14:11:34,635 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-3' start execution.
+2016-02-14 14:11:34,635 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-5' start execution.
+2016-02-14 14:11:34,635 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-4' start execution.
+2016-02-14 14:11:34,636 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-6' start execution.
+2016-02-14 14:11:34,636 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-7' start execution.
+2016-02-14 14:11:34,636 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-8' start execution.
+2016-02-14 15:06:52,738 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:08:33,848 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:08:56,381 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:09:26,994 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:12:43,560 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:12:56,385 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:13:44,629 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:14:52,983 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:15:19,720 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:15:58,988 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:17:17,510 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:17:25,460 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:18:20,985 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:21:48,911 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:21:48,916 [jamp.task.Philosopher][] INFO - Philosopher 1 thinking.
+2016-02-14 15:21:48,916 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:21:48,916 [jamp.task.Philosopher][] INFO - Philosopher 3 thinking.
+2016-02-14 15:21:48,916 [jamp.task.Philosopher][] INFO - Philosopher 0 thinking.
+2016-02-14 15:21:48,917 [jamp.task.Philosopher][] INFO - Philosopher 4 thinking.
+2016-02-14 15:21:49,174 [jamp.task.Philosopher][] INFO - Philosopher 0 has Spoon 0 Waiting for Spoon 1
+2016-02-14 15:21:49,267 [jamp.task.Philosopher][] INFO - Philosopher 4 has Spoon 4 Waiting for Spoon 0
+2016-02-14 15:21:49,415 [jamp.task.Philosopher][] INFO - Philosopher 2 has Spoon 2 Waiting for Spoon 3
+2016-02-14 15:21:49,496 [jamp.task.Philosopher][] INFO - Philosopher 3 has Spoon 3 Waiting for Spoon 4
+2016-02-14 15:21:49,583 [jamp.task.Philosopher][] INFO - Philosopher 1 has Spoon 1 Waiting for Spoon 2
+2016-02-14 15:21:58,820 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:21:58,825 [jamp.task.Philosopher][] INFO - Philosopher 0 thinking.
+2016-02-14 15:21:58,825 [jamp.task.Philosopher][] INFO - Philosopher 1 thinking.
+2016-02-14 15:21:58,825 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:21:58,825 [jamp.task.Philosopher][] INFO - Philosopher 4 thinking.
+2016-02-14 15:21:58,825 [jamp.task.Philosopher][] INFO - Philosopher 3 thinking.
+2016-02-14 15:21:59,169 [jamp.task.Philosopher][] INFO - Philosopher 4 has Spoon 4 Waiting for Spoon 0
+2016-02-14 15:21:59,405 [jamp.task.Philosopher][] INFO - Philosopher 0 has Spoon 0 Waiting for Spoon 1
+2016-02-14 15:21:59,592 [jamp.task.Philosopher][] INFO - Philosopher 3 has Spoon 3 Waiting for Spoon 4
+2016-02-14 15:21:59,645 [jamp.task.Philosopher][] INFO - Philosopher 1 has Spoon 1 Waiting for Spoon 2
+2016-02-14 15:21:59,797 [jamp.task.Philosopher][] INFO - Philosopher 2 has Spoon 2 Waiting for Spoon 3
+2016-02-14 15:22:13,582 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:22:13,587 [jamp.task.Philosopher][] INFO - Philosopher 0 thinking.
+2016-02-14 15:22:13,587 [jamp.task.Philosopher][] INFO - Philosopher 1 thinking.
+2016-02-14 15:22:13,587 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:22:13,587 [jamp.task.Philosopher][] INFO - Philosopher 3 thinking.
+2016-02-14 15:22:13,588 [jamp.task.Philosopher][] INFO - Philosopher 4 thinking.
+2016-02-14 15:22:13,656 [jamp.task.Philosopher][] INFO - Philosopher 3 has Spoon 3 Waiting for Spoon 4
+2016-02-14 15:22:13,848 [jamp.task.Philosopher][] INFO - Philosopher 0 has Spoon 0 Waiting for Spoon 1
+2016-02-14 15:22:14,033 [jamp.task.Philosopher][] INFO - Philosopher 2 has Spoon 2 Waiting for Spoon 3
+2016-02-14 15:22:14,531 [jamp.task.Philosopher][] INFO - Philosopher 3 eating
+2016-02-14 15:22:14,531 [jamp.task.Philosopher][] INFO - Philosopher 3 thinking.
+2016-02-14 15:22:14,531 [jamp.task.Philosopher][] INFO - Philosopher 2 eating
+2016-02-14 15:22:14,531 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:22:14,679 [jamp.task.Philosopher][] INFO - Philosopher 1 has Spoon 1 Waiting for Spoon 2
+2016-02-14 15:22:14,750 [jamp.task.Philosopher][] INFO - Philosopher 4 has Spoon 4 Waiting for Spoon 0
+2016-02-14 15:22:14,766 [jamp.task.Philosopher][] INFO - Philosopher 1 eating
+2016-02-14 15:22:14,766 [jamp.task.Philosopher][] INFO - Philosopher 1 thinking.
+2016-02-14 15:22:14,766 [jamp.task.Philosopher][] INFO - Philosopher 0 eating
+2016-02-14 15:22:14,766 [jamp.task.Philosopher][] INFO - Philosopher 0 thinking.
+2016-02-14 15:22:14,799 [jamp.task.Philosopher][] INFO - Philosopher 2 has Spoon 2 Waiting for Spoon 3
+2016-02-14 15:22:14,853 [jamp.task.Philosopher][] INFO - Philosopher 4 eating
+2016-02-14 15:22:14,853 [jamp.task.Philosopher][] INFO - Philosopher 4 thinking.
+2016-02-14 15:22:14,986 [jamp.task.Philosopher][] INFO - Philosopher 1 has Spoon 1 Waiting for Spoon 2
+2016-02-14 15:22:14,992 [jamp.task.Philosopher][] INFO - Philosopher 0 has Spoon 0 Waiting for Spoon 1
+2016-02-14 15:22:15,496 [jamp.task.Philosopher][] INFO - Philosopher 2 eating
+2016-02-14 15:22:15,496 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:22:15,565 [jamp.task.Philosopher][] INFO - Philosopher 3 has Spoon 3 Waiting for Spoon 4
+2016-02-14 15:22:15,827 [jamp.task.Philosopher][] INFO - Philosopher 1 eating
+2016-02-14 15:22:15,827 [jamp.task.Philosopher][] INFO - Philosopher 1 thinking.
+2016-02-14 15:22:15,827 [jamp.task.Philosopher][] INFO - Philosopher 0 eating
+2016-02-14 15:22:15,827 [jamp.task.Philosopher][] INFO - Philosopher 0 thinking.
+2016-02-14 15:22:15,954 [jamp.task.Philosopher][] INFO - Philosopher 0 has Spoon 0 Waiting for Spoon 1
+2016-02-14 15:22:16,208 [jamp.task.Philosopher][] INFO - Philosopher 3 eating
+2016-02-14 15:22:16,208 [jamp.task.Philosopher][] INFO - Philosopher 3 thinking.
+2016-02-14 15:22:16,216 [jamp.task.Philosopher][] INFO - Philosopher 2 has Spoon 2 Waiting for Spoon 3
+2016-02-14 15:22:16,277 [jamp.task.Philosopher][] INFO - Philosopher 4 has Spoon 4 Waiting for Spoon 0
+2016-02-14 15:22:16,391 [jamp.task.Philosopher][] INFO - Philosopher 0 eating
+2016-02-14 15:22:16,391 [jamp.task.Philosopher][] INFO - Philosopher 0 thinking.
+2016-02-14 15:22:16,409 [jamp.task.Philosopher][] INFO - Philosopher 2 eating
+2016-02-14 15:22:16,409 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:22:16,660 [jamp.task.Philosopher][] INFO - Philosopher 3 has Spoon 3 Waiting for Spoon 4
+2016-02-14 15:22:16,960 [jamp.task.Philosopher][] INFO - Philosopher 4 eating
+2016-02-14 15:22:16,960 [jamp.task.Philosopher][] INFO - Philosopher 4 thinking.
+2016-02-14 15:22:16,960 [jamp.task.Philosopher][] INFO - Philosopher 3 eating
+2016-02-14 15:22:16,960 [jamp.task.Philosopher][] INFO - Philosopher 3 thinking.
+2016-02-14 15:22:17,174 [jamp.task.Philosopher][] INFO - Philosopher 3 has Spoon 3 Waiting for Spoon 4
+2016-02-14 15:22:17,184 [jamp.task.Philosopher][] INFO - Philosopher 1 has Spoon 1 Waiting for Spoon 2
+2016-02-14 15:22:17,520 [jamp.task.Philosopher][] INFO - Philosopher 0 has Spoon 0 Waiting for Spoon 1
+2016-02-14 15:22:17,719 [jamp.task.Philosopher][] INFO - Philosopher 1 eating
+2016-02-14 15:22:17,719 [jamp.task.Philosopher][] INFO - Philosopher 1 thinking.
+2016-02-14 15:22:18,095 [jamp.task.Philosopher][] INFO - Philosopher 3 eating
+2016-02-14 15:22:18,095 [jamp.task.Philosopher][] INFO - Philosopher 3 thinking.
+2016-02-14 15:22:18,118 [jamp.task.Philosopher][] INFO - Philosopher 2 has Spoon 2 Waiting for Spoon 3
+2016-02-14 15:22:18,257 [jamp.task.Philosopher][] INFO - Philosopher 4 has Spoon 4 Waiting for Spoon 0
+2016-02-14 15:22:18,514 [jamp.task.Philosopher][] INFO - Philosopher 0 eating
+2016-02-14 15:22:18,514 [jamp.task.Philosopher][] INFO - Philosopher 0 thinking.
+2016-02-14 15:22:18,532 [jamp.task.Philosopher][] INFO - Philosopher 4 eating
+2016-02-14 15:22:18,532 [jamp.task.Philosopher][] INFO - Philosopher 4 thinking.
+2016-02-14 15:22:18,679 [jamp.task.Philosopher][] INFO - Philosopher 1 has Spoon 1 Waiting for Spoon 2
+2016-02-14 15:22:19,009 [jamp.task.Philosopher][] INFO - Philosopher 2 eating
+2016-02-14 15:22:19,009 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:22:19,214 [jamp.task.Philosopher][] INFO - Philosopher 2 has Spoon 2 Waiting for Spoon 3
+2016-02-14 15:22:19,671 [jamp.task.Philosopher][] INFO - Philosopher 2 eating
+2016-02-14 15:22:19,671 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:22:19,671 [jamp.task.Philosopher][] INFO - Philosopher 1 eating
+2016-02-14 15:22:19,671 [jamp.task.Philosopher][] INFO - Philosopher 1 thinking.
+2016-02-14 15:22:19,949 [jamp.task.Philosopher][] INFO - Philosopher 4 has Spoon 4 Waiting for Spoon 0
+2016-02-14 15:22:19,997 [jamp.task.Philosopher][] INFO - Philosopher 3 has Spoon 3 Waiting for Spoon 4
+2016-02-14 15:22:20,056 [jamp.task.Philosopher][] INFO - Philosopher 0 has Spoon 0 Waiting for Spoon 1
+2016-02-14 15:22:20,782 [jamp.task.Philosopher][] INFO - Philosopher 0 eating
+2016-02-14 15:22:20,782 [jamp.task.Philosopher][] INFO - Philosopher 0 thinking.
+2016-02-14 15:22:20,789 [jamp.task.Philosopher][] INFO - Philosopher 4 eating
+2016-02-14 15:22:20,789 [jamp.task.Philosopher][] INFO - Philosopher 4 thinking.
+2016-02-14 15:22:20,789 [jamp.task.Philosopher][] INFO - Philosopher 3 eating
+2016-02-14 15:22:20,789 [jamp.task.Philosopher][] INFO - Philosopher 3 thinking.
+2016-02-14 15:22:20,928 [jamp.task.Philosopher][] INFO - Philosopher 0 has Spoon 0 Waiting for Spoon 1
+2016-02-14 15:22:21,082 [jamp.task.Philosopher][] INFO - Philosopher 1 has Spoon 1 Waiting for Spoon 2
+2016-02-14 15:22:21,401 [jamp.task.Philosopher][] INFO - Philosopher 1 eating
+2016-02-14 15:22:21,401 [jamp.task.Philosopher][] INFO - Philosopher 1 thinking.
+2016-02-14 15:22:21,564 [jamp.task.Philosopher][] INFO - Philosopher 2 has Spoon 2 Waiting for Spoon 3
+2016-02-14 15:22:21,680 [jamp.task.Philosopher][] INFO - Philosopher 1 has Spoon 1 Waiting for Spoon 2
+2016-02-14 15:22:21,739 [jamp.task.Philosopher][] INFO - Philosopher 2 eating
+2016-02-14 15:22:21,739 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:22:22,117 [jamp.task.Philosopher][] INFO - Philosopher 1 eating
+2016-02-14 15:22:22,117 [jamp.task.Philosopher][] INFO - Philosopher 1 thinking.
+2016-02-14 15:22:22,117 [jamp.task.Philosopher][] INFO - Philosopher 0 eating
+2016-02-14 15:22:22,117 [jamp.task.Philosopher][] INFO - Philosopher 0 thinking.
+2016-02-14 15:22:22,601 [jamp.task.Philosopher][] INFO - Philosopher 3 has Spoon 3 Waiting for Spoon 4
+2016-02-14 15:22:22,669 [jamp.task.Philosopher][] INFO - Philosopher 4 has Spoon 4 Waiting for Spoon 0
+2016-02-14 15:22:22,801 [jamp.task.Philosopher][] INFO - Philosopher 0 has Spoon 0 Waiting for Spoon 1
+2016-02-14 15:22:23,089 [jamp.task.Philosopher][] INFO - Philosopher 0 eating
+2016-02-14 15:22:23,089 [jamp.task.Philosopher][] INFO - Philosopher 0 thinking.
+2016-02-14 15:22:23,335 [jamp.task.Philosopher][] INFO - Philosopher 1 has Spoon 1 Waiting for Spoon 2
+2016-02-14 15:22:23,442 [jamp.task.Philosopher][] INFO - Philosopher 4 eating
+2016-02-14 15:22:23,442 [jamp.task.Philosopher][] INFO - Philosopher 4 thinking.
+2016-02-14 15:22:23,442 [jamp.task.Philosopher][] INFO - Philosopher 3 eating
+2016-02-14 15:22:23,442 [jamp.task.Philosopher][] INFO - Philosopher 3 thinking.
+2016-02-14 15:22:23,467 [jamp.task.Philosopher][] INFO - Philosopher 2 has Spoon 2 Waiting for Spoon 3
+2016-02-14 15:22:24,007 [jamp.task.Philosopher][] INFO - Philosopher 2 eating
+2016-02-14 15:22:24,007 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:22:24,114 [jamp.task.Philosopher][] INFO - Philosopher 1 eating
+2016-02-14 15:22:24,114 [jamp.task.Philosopher][] INFO - Philosopher 1 thinking.
+2016-02-14 15:22:24,447 [jamp.task.Philosopher][] INFO - Philosopher 3 has Spoon 3 Waiting for Spoon 4
+2016-02-14 15:22:24,614 [jamp.task.Philosopher][] INFO - Philosopher 1 has Spoon 1 Waiting for Spoon 2
+2016-02-14 15:22:24,972 [jamp.task.Philosopher][] INFO - Philosopher 0 has Spoon 0 Waiting for Spoon 1
+2016-02-14 15:22:25,012 [jamp.task.Philosopher][] INFO - Philosopher 3 eating
+2016-02-14 15:22:25,012 [jamp.task.Philosopher][] INFO - Philosopher 3 thinking.
+2016-02-14 15:22:25,233 [jamp.task.Philosopher][] INFO - Philosopher 3 has Spoon 3 Waiting for Spoon 4
+2016-02-14 15:22:25,261 [jamp.task.Philosopher][] INFO - Philosopher 2 has Spoon 2 Waiting for Spoon 3
+2016-02-14 15:22:25,311 [jamp.task.Philosopher][] INFO - Philosopher 4 has Spoon 4 Waiting for Spoon 0
+2016-02-14 15:22:31,115 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:22:31,120 [jamp.task.Philosopher][] INFO - Philosopher 0 thinking.
+2016-02-14 15:22:31,120 [jamp.task.Philosopher][] INFO - Philosopher 1 thinking.
+2016-02-14 15:22:31,120 [jamp.task.Philosopher][] INFO - Philosopher 3 thinking.
+2016-02-14 15:22:31,120 [jamp.task.Philosopher][] INFO - Philosopher 4 thinking.
+2016-02-14 15:22:31,120 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:22:31,309 [jamp.task.Philosopher][] INFO - Philosopher 0 has Spoon 0 Waiting for Spoon 1
+2016-02-14 15:22:31,827 [jamp.task.Philosopher][] INFO - Philosopher 0 eating
+2016-02-14 15:22:31,827 [jamp.task.Philosopher][] INFO - Philosopher 0 thinking.
+2016-02-14 15:22:31,908 [jamp.task.Philosopher][] INFO - Philosopher 2 has Spoon 2 Waiting for Spoon 3
+2016-02-14 15:22:32,453 [jamp.task.Philosopher][] INFO - Philosopher 2 eating
+2016-02-14 15:22:32,453 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:22:32,596 [jamp.task.Philosopher][] INFO - Philosopher 1 has Spoon 1 Waiting for Spoon 2
+2016-02-14 15:22:32,599 [jamp.task.Philosopher][] INFO - Philosopher 1 eating
+2016-02-14 15:22:32,599 [jamp.task.Philosopher][] INFO - Philosopher 1 thinking.
+2016-02-14 15:22:32,617 [jamp.task.Philosopher][] INFO - Philosopher 3 has Spoon 3 Waiting for Spoon 4
+2016-02-14 15:22:32,716 [jamp.task.Philosopher][] INFO - Philosopher 4 has Spoon 4 Waiting for Spoon 0
+2016-02-14 15:22:32,763 [jamp.task.Philosopher][] INFO - Philosopher 2 has Spoon 2 Waiting for Spoon 3
+2016-02-14 15:22:33,359 [jamp.task.Philosopher][] INFO - Philosopher 0 has Spoon 0 Waiting for Spoon 1
+2016-02-14 15:22:33,565 [jamp.task.Philosopher][] INFO - Philosopher 0 eating
+2016-02-14 15:22:33,565 [jamp.task.Philosopher][] INFO - Philosopher 0 thinking.
+2016-02-14 15:22:33,711 [jamp.task.Philosopher][] INFO - Philosopher 4 eating
+2016-02-14 15:22:33,711 [jamp.task.Philosopher][] INFO - Philosopher 4 thinking.
+2016-02-14 15:22:33,711 [jamp.task.Philosopher][] INFO - Philosopher 3 eating
+2016-02-14 15:22:33,711 [jamp.task.Philosopher][] INFO - Philosopher 3 thinking.
+2016-02-14 15:22:33,711 [jamp.task.Philosopher][] INFO - Philosopher 2 eating
+2016-02-14 15:22:33,711 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:22:34,014 [jamp.task.Philosopher][] INFO - Philosopher 1 has Spoon 1 Waiting for Spoon 2
+2016-02-14 15:22:34,139 [jamp.task.Philosopher][] INFO - Philosopher 4 has Spoon 4 Waiting for Spoon 0
+2016-02-14 15:22:34,307 [jamp.task.Philosopher][] INFO - Philosopher 2 has Spoon 2 Waiting for Spoon 3
+2016-02-14 15:22:34,359 [jamp.task.Philosopher][] INFO - Philosopher 2 eating
+2016-02-14 15:22:34,359 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:22:34,359 [jamp.task.Philosopher][] INFO - Philosopher 1 eating
+2016-02-14 15:22:34,359 [jamp.task.Philosopher][] INFO - Philosopher 1 thinking.
+2016-02-14 15:22:34,966 [jamp.task.Philosopher][] INFO - Philosopher 4 eating
+2016-02-14 15:22:34,966 [jamp.task.Philosopher][] INFO - Philosopher 4 thinking.
+2016-02-14 15:22:35,045 [jamp.task.Philosopher][] INFO - Philosopher 4 has Spoon 4 Waiting for Spoon 0
+2016-02-14 15:22:35,238 [jamp.task.Philosopher][] INFO - Philosopher 2 has Spoon 2 Waiting for Spoon 3
+2016-02-14 15:22:35,328 [jamp.task.Philosopher][] INFO - Philosopher 2 eating
+2016-02-14 15:22:35,328 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:22:35,422 [jamp.task.Philosopher][] INFO - Philosopher 3 has Spoon 3 Waiting for Spoon 4
+2016-02-14 15:22:35,449 [jamp.task.Philosopher][] INFO - Philosopher 0 has Spoon 0 Waiting for Spoon 1
+2016-02-14 15:22:35,451 [jamp.task.Philosopher][] INFO - Philosopher 0 eating
+2016-02-14 15:22:35,451 [jamp.task.Philosopher][] INFO - Philosopher 0 thinking.
+2016-02-14 15:22:35,451 [jamp.task.Philosopher][] INFO - Philosopher 4 eating
+2016-02-14 15:22:35,451 [jamp.task.Philosopher][] INFO - Philosopher 4 thinking.
+2016-02-14 15:22:35,735 [jamp.task.Philosopher][] INFO - Philosopher 1 has Spoon 1 Waiting for Spoon 2
+2016-02-14 15:22:35,848 [jamp.task.Philosopher][] INFO - Philosopher 1 eating
+2016-02-14 15:22:35,848 [jamp.task.Philosopher][] INFO - Philosopher 1 thinking.
+2016-02-14 15:22:35,915 [jamp.task.Philosopher][] INFO - Philosopher 2 has Spoon 2 Waiting for Spoon 3
+2016-02-14 15:22:36,188 [jamp.task.Philosopher][] INFO - Philosopher 0 has Spoon 0 Waiting for Spoon 1
+2016-02-14 15:22:36,378 [jamp.task.Philosopher][] INFO - Philosopher 3 eating
+2016-02-14 15:22:36,378 [jamp.task.Philosopher][] INFO - Philosopher 3 thinking.
+2016-02-14 15:22:36,661 [jamp.task.Philosopher][] INFO - Philosopher 3 has Spoon 3 Waiting for Spoon 4
+2016-02-14 15:22:36,873 [jamp.task.Philosopher][] INFO - Philosopher 0 eating
+2016-02-14 15:22:36,873 [jamp.task.Philosopher][] INFO - Philosopher 0 thinking.
+2016-02-14 15:22:36,992 [jamp.task.Philosopher][] INFO - Philosopher 3 eating
+2016-02-14 15:22:36,992 [jamp.task.Philosopher][] INFO - Philosopher 3 thinking.
+2016-02-14 15:22:36,992 [jamp.task.Philosopher][] INFO - Philosopher 2 eating
+2016-02-14 15:22:36,992 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:22:37,030 [jamp.task.Philosopher][] INFO - Philosopher 4 has Spoon 4 Waiting for Spoon 0
+2016-02-14 15:22:37,048 [jamp.task.Philosopher][] INFO - Philosopher 3 has Spoon 3 Waiting for Spoon 4
+2016-02-14 15:22:37,079 [jamp.task.Philosopher][] INFO - Philosopher 2 has Spoon 2 Waiting for Spoon 3
+2016-02-14 15:22:37,189 [jamp.task.Philosopher][] INFO - Philosopher 0 has Spoon 0 Waiting for Spoon 1
+2016-02-14 15:22:37,751 [jamp.task.Philosopher][] INFO - Philosopher 1 has Spoon 1 Waiting for Spoon 2
+2016-02-14 15:57:57,758 [jamp.main.Third][] INFO - Start.
+2016-02-14 15:57:57,763 [jamp.task.Philosopher][] INFO - Philosopher 0 thinking.
+2016-02-14 15:57:57,763 [jamp.task.Philosopher][] INFO - Philosopher 1 thinking.
+2016-02-14 15:57:57,763 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:57:57,764 [jamp.task.Philosopher][] INFO - Philosopher 3 thinking.
+2016-02-14 15:57:57,764 [jamp.task.Philosopher][] INFO - Philosopher 4 thinking.
+2016-02-14 15:57:58,029 [jamp.task.Philosopher][] INFO - Philosopher 1 has Spoon 1 Waiting for Spoon 2
+2016-02-14 15:57:58,523 [jamp.task.Philosopher][] INFO - Philosopher 1 eating
+2016-02-14 15:57:58,523 [jamp.task.Philosopher][] INFO - Philosopher 1 thinking.
+2016-02-14 15:57:58,525 [jamp.task.Philosopher][] INFO - Philosopher 2 has Spoon 2 Waiting for Spoon 3
+2016-02-14 15:57:58,644 [jamp.task.Philosopher][] INFO - Philosopher 4 has Spoon 4 Waiting for Spoon 0
+2016-02-14 15:57:59,000 [jamp.task.Philosopher][] INFO - Philosopher 2 eating
+2016-02-14 15:57:59,000 [jamp.task.Philosopher][] INFO - Philosopher 2 thinking.
+2016-02-14 15:57:59,046 [jamp.task.Philosopher][] INFO - Philosopher 0 has Spoon 0 Waiting for Spoon 1
+2016-02-14 15:57:59,241 [jamp.task.Philosopher][] INFO - Philosopher 0 eating
+2016-02-14 15:57:59,241 [jamp.task.Philosopher][] INFO - Philosopher 0 thinking.
+2016-02-14 15:57:59,375 [jamp.task.Philosopher][] INFO - Philosopher 1 has Spoon 1 Waiting for Spoon 2
+2016-02-14 15:57:59,376 [jamp.task.Philosopher][] INFO - Philosopher 3 has Spoon 3 Waiting for Spoon 4
+2016-02-14 15:57:59,533 [jamp.task.Philosopher][] INFO - Philosopher 4 eating
+2016-02-14 15:57:59,533 [jamp.task.Philosopher][] INFO - Philosopher 4 thinking.
+2016-02-14 15:58:03,219 [jamp.main.Fourth][] INFO - Start.
+2016-02-14 15:58:03,224 [jamp.task.VerySlowTask][] INFO - Very slow thread starts work.
+2016-02-14 15:58:03,225 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-2' start execution.
+2016-02-14 15:58:03,225 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-3' start execution.
+2016-02-14 15:58:03,225 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-4' start execution.
+2016-02-14 15:58:03,225 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-5' start execution.
+2016-02-14 15:58:13,224 [jamp.task.VerySlowTask][] INFO - Very slow thread finish work.
+2016-02-14 15:58:13,224 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-2' is executing.
+2016-02-14 15:58:13,224 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-2' finish execution.
+2016-02-14 15:58:13,224 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-5' is executing.
+2016-02-14 15:58:13,224 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-5' finish execution.
+2016-02-14 15:58:13,224 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-3' is executing.
+2016-02-14 15:58:13,224 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-3' finish execution.
+2016-02-14 15:58:13,224 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-4' is executing.
+2016-02-14 15:58:13,225 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-4' finish execution.
+2016-02-14 15:58:13,225 [jamp.main.Fourth][] INFO - Finish.
+2016-02-14 15:58:40,769 [jamp.main.Fourth][] INFO - Start.
+2016-02-14 15:58:40,773 [jamp.task.VerySlowTask][] INFO - Very slow thread starts work.
+2016-02-14 15:58:40,774 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-2' start execution.
+2016-02-14 15:58:40,774 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-3' start execution.
+2016-02-14 15:58:40,774 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-4' start execution.
+2016-02-14 15:58:40,774 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-5' start execution.
+2016-02-14 15:59:14,234 [jamp.main.Fourth][] INFO - Start.
+2016-02-14 15:59:14,239 [jamp.task.VerySlowTask][] INFO - Very slow thread starts work.
+2016-02-14 15:59:14,241 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-3' start execution.
+2016-02-14 15:59:14,241 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-2' start execution.
+2016-02-14 15:59:14,241 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-4' start execution.
+2016-02-14 15:59:14,241 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-5' start execution.
+2016-02-14 15:59:44,239 [jamp.task.VerySlowTask][] INFO - Very slow thread finish work.
+2016-02-14 15:59:44,239 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-3' is executing.
+2016-02-14 15:59:44,239 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-3' finish execution.
+2016-02-14 15:59:44,239 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-4' is executing.
+2016-02-14 15:59:44,239 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-4' finish execution.
+2016-02-14 15:59:44,239 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-2' is executing.
+2016-02-14 15:59:44,240 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-2' finish execution.
+2016-02-14 15:59:44,240 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-5' is executing.
+2016-02-14 15:59:44,240 [jamp.task.SimpleTask][] INFO - Thread 'pool-1-thread-5' finish execution.
+2016-02-14 15:59:44,240 [jamp.main.Fourth][] INFO - Finish.
+2016-02-14 16:31:48,641 [jamp.main.Fifth][] INFO - Start.
+2016-02-14 16:31:48,837 [jamp.file.reader.CustomFileReader][] INFO - Result size - 19404
+2016-02-14 16:31:48,837 [jamp.main.Fifth][] INFO - Finish.
+2016-02-14 16:34:30,045 [jamp.main.Fifth][] INFO - Start.
+2016-02-14 16:34:30,262 [jamp.file.reader.CustomFileReader][] INFO - Result size - 19404
+2016-02-14 16:34:30,263 [jamp.main.Fifth][] INFO - Finish.
+2016-02-14 16:34:32,819 [jamp.main.Fifth][] INFO - Start.
+2016-02-14 16:34:32,993 [jamp.file.reader.CustomFileReader][] INFO - Result size - 19404
+2016-02-14 16:34:32,993 [jamp.main.Fifth][] INFO - Finish.
+2016-02-14 16:34:34,405 [jamp.main.Fifth][] INFO - Start.
+2016-02-14 16:34:34,583 [jamp.file.reader.CustomFileReader][] INFO - Result size - 19404
+2016-02-14 16:34:34,583 [jamp.main.Fifth][] INFO - Finish.
+2016-02-14 16:36:46,669 [jamp.main.Fifth][] INFO - Start.
+2016-02-14 16:36:46,865 [jamp.file.reader.CustomFileReader][] INFO - Result size - 19404
+2016-02-14 16:36:46,865 [jamp.main.Fifth][] INFO - Finish.
+2016-02-14 16:37:21,656 [jamp.main.Fifth][] INFO - Start.
+2016-02-14 16:37:45,477 [jamp.main.Fifth][] INFO - Start.
+2016-02-14 16:37:45,748 [jamp.file.reader.CustomFileReader][] INFO - Result size - 19404
+2016-02-14 16:37:45,749 [jamp.main.Fifth][] INFO - Finish.
+2016-02-14 16:37:48,231 [jamp.main.Fifth][] INFO - Start.
+2016-02-14 16:37:48,501 [jamp.file.reader.CustomFileReader][] INFO - Result size - 19404
+2016-02-14 16:37:48,501 [jamp.main.Fifth][] INFO - Finish.
+2016-02-14 16:38:05,292 [jamp.main.Fifth][] INFO - Start.
+2016-02-14 16:38:36,283 [jamp.main.Fifth][] INFO - Start.
+2016-02-14 16:39:15,307 [jamp.main.Fifth][] INFO - Start.
+2016-02-14 16:39:55,636 [jamp.main.Fifth][] INFO - Start.
+2016-02-14 16:42:34,324 [jamp.main.Fifth][] INFO - Start.
